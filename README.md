@@ -26,9 +26,9 @@ Clone the Repository:
 bash
 Copy code
 
-git clone https://github.com/yourusername/proyog.git
+git clone https://github.com/pryogendra/Pryog_Coding_Plateform.git
 
-cd proyog
+cd Pryog_Coding_Plateform
 
 Build the Project (if applicable): If you have a Maven setup, run:
 
